@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Racket
+  - Target
+  - Target_Yellow
+  - Target_Red
+  - Target_Blue
+  - Target_Black
+  - Target_White
+  - LeftHand
+  - RightHand
+  - Bow
+  - TaskTarget
+  - Target_Practice
+  - Target_Task
+  - Gun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bow
+  - Water
+  - UI
+  - Arrow
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
